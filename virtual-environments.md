@@ -65,7 +65,6 @@ Run the following command to activate your environment:
   ```sh
   source .venv/bin/activate
   ```
-  ```
 
 Once activated, your terminal prompt should change, indicating you're in the virtual environment.
 
@@ -102,7 +101,6 @@ Simply delete the virtual environment folder:
 ```sh
 rm -rf .venv
 ```
-*(On Windows, use `rmdir /s /q .venv` in Command Prompt)*
 
 ## Conclusion
 
@@ -112,10 +110,10 @@ Virtual environments are essential for managing dependencies in Python projects.
 
 * FormaServe Systems Ltd - *All work* - [FormaServe](https://www.formaserve.co.uk)
 
-## Copyright © 2023 FormaServe Systems Ltd
+## Copyright © 2025 FormaServe Systems Ltd
 
 All Rights Reserved. This software is proprietary and confidential. \
-Unauthorized copying, modification, distribution, or creation of derivative works of this code is strictly prohibited without the express written consent of FormaServe Systems Ltd.
+Unauthorised copying, modification, distribution, or creation of derivative works of this code is strictly prohibited without the express written consent of FormaServe Systems Ltd.
 
 ## Acknowledgments
 
